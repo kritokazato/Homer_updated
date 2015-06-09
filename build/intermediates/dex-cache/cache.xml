@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.jpardogo.materialtabstrip\library\1.0.8\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e724073d032731be77fad0f993e2970fb4429e3a">
+        <dex dex="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\debug\classes-060a5f4ebd835086b0b3d024e80b27243809a85f.jar" />
+    </item>
+    <item
+        jar="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.github.ksoichiro\android-observablescrollview\1.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="010ee9e87a286afcaeaed368dcf829e42d0aa2a0">
+        <dex dex="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\release\classes-e06d33e2071f38740e57e0826cb2dbb026b04882.jar" />
+    </item>
+    <item
+        jar="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\debug\classes-1aa8800183bb30b6fbee2f87fe8d3ef5892e80e3.jar" />
+    </item>
+    <item
+        jar="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-3e0d0375f5eb4ba5b701cb9d6bce00d1e757e944.jar" />
+    </item>
+    <item
+        jar="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\release\classes-6cee7d396ebcd2cacb02d2e233ff548a93d9d41c.jar" />
+    </item>
+    <item
+        jar="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\debug\classes-28929aa70f23c93b7362fa7d4718ced54a2cfb0d.jar" />
+    </item>
+    <item
+        jar="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.jpardogo.materialtabstrip\library\1.0.8\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e724073d032731be77fad0f993e2970fb4429e3a">
+        <dex dex="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\release\classes-f18ed85697e6467f88545f0173001c86e70052b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\sam\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-61c5f9ca547fb8984367f5211fde5c53046cfc86.jar" />
+    </item>
+    <item
+        jar="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d">
+        <dex dex="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\release\classes-0cf311b937057843a77bbb35f22f86767c955355.jar" />
+    </item>
+    <item
+        jar="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\release\classes-791e8964f45c768a5ed128f196574fb817c727d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-db83dc21f6a1e02fb5ec1dafa9e5e7cbaef00ff4.jar" />
+    </item>
+    <item
+        jar="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\release\classes-2e86773cb741a6f2a8fe4500c025ec0e23b76422.jar" />
+    </item>
+    <item
+        jar="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\debug\classes-43e8c3ce2cd2a0dc3a8229cdd1d0913e4ef2b0c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\debug\classes-50f6c8ebdb3dfeefc4a7ada0240c940f14463838.jar" />
+    </item>
+    <item
+        jar="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-eb8ac98c0ef420921a10eb1e4c5dc533dd91254d.jar" />
+    </item>
+    <item
+        jar="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\debug\classes-e2dc06313e1b22dcf1d4d73d60ef04a89be98815.jar" />
+    </item>
+    <item
+        jar="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-275dc60e92b8ae266987ef497af4e95fe8db1bff.jar" />
+    </item>
+    <item
+        jar="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d">
+        <dex dex="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\debug\classes-7ee7ba501b237c3d66c4d4f6c11b242e29e8a501.jar" />
+    </item>
+    <item
+        jar="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\release\classes-3f040b2d59f8c3f33b6ed9a3a9ce3161fca5dfd0.jar" />
+    </item>
+    <item
+        jar="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\release\classes-ff20282ac3aca80d05f9fe179e7b3731461f2886.jar" />
+    </item>
+    <item
+        jar="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.github.ksoichiro\android-observablescrollview\1.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="010ee9e87a286afcaeaed368dcf829e42d0aa2a0">
+        <dex dex="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\debug\classes-b7735d51a5b9775b2aa063ff6c0f4d10264f154d.jar" />
+    </item>
+    <item
+        jar="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="F:\Project\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\release\classes-df72b934003b794f8bec7b4617a68787082bf6ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\debug\classes-bebc204b4fd87e21e11892407c6c9a874bd328bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\sam\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\sam\Downloads\MaterialSample-master\MaterialSample-master\app\build\intermediates\pre-dexed\debug\library-2.4.0-5f3c2ad6d19dcfc593afd2efc95c05ee4c6dc863.jar" />
+    </item>
+
+</items>
